@@ -1,5 +1,3 @@
-import os
-
 from story import write_story
 
 
