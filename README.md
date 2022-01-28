@@ -16,3 +16,4 @@ Using the Generative Pre-trained Transformer 3 (GPT3) to generate stories or art
 
 - you can change the context of the story in the app.py to generate different human-like texts
 
+[view sample story](https://github.com/SimonAndro/gpt3-generate-story/blob/main/stories/metaverse.html)
